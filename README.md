@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Florian Pasco, a **Engineering student** (specializing in **Electronics, Mechanicsand computer programming**).
+🎓 I am Florian Pasco, a **Engineering student** (specializing in **Electronics, Mechanics and computer programming**).
 
 👨‍💻 Here, I intend to propose most of my open-source projects for permise that everyone can enrich themselves with fairly simple and reusable projects in the fields of electronics, computer programming and mechanics.
 
@@ -11,3 +11,28 @@
 📚 I also like to read books on **permaculture** and **federalism**.
 
 ⛺ I also really like **travelling** and discovering new things. Both in a close radius on foot and by bike but also on an expedition with my bike and my tent!
+
+## 🛠️ Skills
+
+### Computer Programming
+
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white)
+![P5](https://img.shields.io/badge/p5.js-000000?style=for-the-badge&logo=p5.js&logoColor=white)
+![Unity3D](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=Kotlin&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-000000?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+
+### Electronics
+
+![KiCad](https://img.shields.io/badge/KiCad-000000?style=for-the-badge&logo=KiCad&logoColor=white)
+
+### Mechanics
+
+![Fusion360](https://img.shields.io/badge/Autodesk-000000?style=for-the-badge&logo=Autodesk&logoColor=white)
+
+### OTHERS
+
+![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=LaTeX&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-000000?style=for-the-badge&logo=Overleaf&logoColor=white)
