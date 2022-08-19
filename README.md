@@ -36,3 +36,8 @@
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-000000?style=for-the-badge&logo=Overleaf&logoColor=white)
+
+## 🔗 Links
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/florian-pasco-7ab589244/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MPek29)
