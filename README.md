@@ -8,7 +8,7 @@
 
 🚲 Outside of the world of technology too, I like to elevate myself intellectually in various ways. My hobbies range from **cycling**, **repairing old bikes**, **petanque** to other more social ones like **being secretary of the cafeteria association of my school**.
 
-📚 I also like to read books on **permaculture** and **federalism**.
+📚 I also like to read books on **permaculture**, **federalism** and **self-sufficiency**.
 
 ⛺ I also really like **travelling** and discovering new things. Both in a close radius on foot and by bike but also on an expedition with my bike and my tent!
 
