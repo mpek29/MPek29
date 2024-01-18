@@ -2,51 +2,60 @@
 
 ## 🚀 About Me
 
-🎓 I am Florian Pasco, a **multiskills systems engineering student** in **electronics, computer science and mechatronics** specializing in **embedded systems**.
+🎓 I am Florian Pasco, a **master student** in **Engineering (Electronics, Computer Science and Mechatronics)**.
 
 👨‍💻 Here, I intend to propose most of my open-source projects for permise that everyone can enrich themselves with fairly simple and reusable projects in the fields of electronics, computer programming and mechanics.
 
-🚲 Outside of the world of technology, I like to elevate myself intellectually in various ways. My hobbies range from **cycling**, **repairing old bikes**, **petanque** to other more social like **participate in several associations**.
+🚲 Outside the world of technology, I like to improve my skills in a variety of ways. My hobbies range from **running** to more social activities such as **participating in various associations**.
 
-📚 I am also interested in books or reports on the **French Polar Institute**, **self-training** and **repairing objects**.
+📚 I’m also interested in books and reports from the **French Polar Institute**, **self-training**, **personal development** and **repairing objects**.
 
-⛺ I also really like **travelling** and discovering new things. Both in a close radius on foot and by bike but also on an expedition with my bike and my tent!
+⛺ I love to **travel and discover new things**. Both within a short radius, on **foot** and by **bike**, but also on **expeditions in my car**!
 
 ## 🛠️ Skills
 
-### Computer Programming
+### Computer Science
+
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
-![SQLite3](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=SQLite&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=Qt&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=Kotlin&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/AndroidStudio-000000?style=for-the-badge&logo=AndroidStudio&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-000000?style=for-the-badge&logo=Tkinter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white)
-![Unity3D](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
-![P5](https://img.shields.io/badge/p5.js-000000?style=for-the-badge&logo=p5.js&logoColor=white)
+![bash](https://img.shields.io/badge/bash-000000?style=for-the-badge&logo=bash&logoColor=white)
+![shell](https://img.shields.io/badge/shell-000000?style=for-the-badge&logo=shell&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white)
 
 ### Electronics
 
-![KiCad](https://img.shields.io/badge/KiCad-000000?style=for-the-badge&logo=KiCad&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-000000?style=for-the-badge&logo=RTOS&logoColor=white)
+![ARM CPU](https://img.shields.io/badge/ARM_CPU-000000?style=for-the-badge&logo=ARM_CPU&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-000000?style=for-the-badge&logo=STM32&logoColor=white)
+![LTSpice](https://img.shields.io/badge/LTSpice-000000?style=for-the-badge&logo=LTSpice&logoColor=white)
+![TDB_equipment](https://img.shields.io/badge/TDB_equipment-000000?style=for-the-badge&logo=TDB_equipment&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry_Pi](https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=Raspberry_Pi&logoColor=white)
+![SPI/I²C](https://img.shields.io/badge/SPI/I²C-000000?style=for-the-badge&logo=SPI/I²C&logoColor=white)
+![RTL](https://img.shields.io/badge/RTL-000000?style=for-the-badge&logo=RTL&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logo=VHDL&logoColor=white)
+![PCB_design](https://img.shields.io/badge/PCB_design-000000?style=for-the-badge&logo=RTOS&logoColor=white)
 
-### Mechanics
+### Mechatronics
 
-![Fusion360](https://img.shields.io/badge/Autodesk-000000?style=for-the-badge&logo=Autodesk&logoColor=white)
+![CAD](https://img.shields.io/badge/CAD-000000?style=for-the-badge&logo=CAD&logoColor=white)
+![Fusion](https://img.shields.io/badge/Fusion-000000?style=for-the-badge&logo=Fusion&logoColor=white)
 ![Catia](https://img.shields.io/badge/Catia-000000?style=for-the-badge&logo=Catia&logoColor=white)
+![3D_printing](https://img.shields.io/badge/3D_printing-000000?style=for-the-badge&logo=3D_printing&logoColor=white)
 
 ### OTHERS
 
-![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=LaTeX&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-000000?style=for-the-badge&logo=Overleaf&logoColor=white)
+![Office](https://img.shields.io/badge/Office-000000?style=for-the-badge&logo=Office&logoColor=white)
+![PPT](https://img.shields.io/badge/PPT-000000?style=for-the-badge&logo=PPT&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=Excel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-000000?style=for-the-badge&logo=Word&logoColor=white)
+
 
 ## 🔗 Links
-
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/florian-pasco-7ab589244/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MPek29)
 [![mail](https://img.shields.io/badge/mail-000000?style=for-the-badge&logo=mail&logoColor=white)](mailto:florianpasco@protonmail.com)
-[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://mpek29.github.io/)
+[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://mpek29.github.io/en/)
